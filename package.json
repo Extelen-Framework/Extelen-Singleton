@@ -1,0 +1,14 @@
+{
+  "name": "com.extelen.singleton",
+  "version": "1.0.0",
+  "displayName": "[ETL] Singleton",
+  "description": "A simple Singleton.",
+  "unity": "2020.3", 
+  "dependencies": {
+  },
+  "keywords": ["code", "singleton", "utility"],
+  "author": {
+      "name": "Rodrigo Saguer",
+      "email": "extelendev@gmail.com"
+  }
+}
