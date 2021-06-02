@@ -12,7 +12,7 @@ namespace Singleton
 
         //Static
         private static T m_instance = null;
-        public T Instance { get => m_instance; }
+        public static T Instance { get => m_instance; }
 
         //Non Static
         [Header("Singleton")]

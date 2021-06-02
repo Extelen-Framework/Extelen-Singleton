@@ -1,6 +1,6 @@
 {
   "name": "com.extelen.singleton",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "displayName": "[ETL] Singleton",
   "description": "A simple Singleton.",
   "unity": "2020.3", 
